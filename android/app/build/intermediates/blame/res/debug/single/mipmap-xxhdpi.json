@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/stellentsoft/Documents/navneeta/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/Users/stellentsoft/Documents/navneeta/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/stellent/Downloads/navneeta/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/Users/stellent/Downloads/navneeta/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/stellent/Documents/navneeta/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/Users/stellent/Documents/navneeta/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    }
+]

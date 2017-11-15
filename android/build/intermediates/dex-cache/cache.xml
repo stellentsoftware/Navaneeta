@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/stellentsoft/Documents/navneeta/android/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="/Users/stellentsoft/Documents/navneeta/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.2.0_a37b0e5503a3cfede0a87af930bee1e3a9f934b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/stellentsoft/Documents/navneeta/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d9c4402c3057225d80cbbbec52154e7a25b0ebdf">
+        <dex dex="/Users/stellentsoft/Documents/navneeta/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.0.1_47835092faea3a783f4ba5a8781d0ad550944489.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/stellentsoft/Documents/navneeta/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/11.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a611d7a00671ec4eb3050a21425fae955a38eb8a">
+        <dex dex="/Users/stellentsoft/Documents/navneeta/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-impl-11.0.0_e2aafb979f7090aec2d058f05d39b9653e65ff66.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/stellentsoft/Documents/navneeta/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ba9b39366b723ccff6359d1117332968e98a4aca">
+        <dex dex="/Users/stellentsoft/Documents/navneeta/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.0.1_d45c3eae352b2d3527ca940f1f4a52b0ba6c2305.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/stellentsoft/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/stellentsoft/Documents/navneeta/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_9aa45011a3ef09e465c940258b047ec70d107c80.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/stellentsoft/Documents/navneeta/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/11.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="aba37a3eec04e174dc59f00cf4bd7992061d847a">
+        <dex dex="/Users/stellentsoft/Documents/navneeta/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-iid-11.0.0_9f3bc79fcbeffb096b670be1f9e6784e891a6fef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/stellentsoft/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/stellentsoft/Documents/navneeta/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_8443b2d59c356c558ec94d36cfb3b1c1a2cfc9b3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/stellentsoft/Documents/navneeta/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="050f688115ea65a0292d8483a6ffe6bcdab1e2ef">
+        <dex dex="/Users/stellentsoft/Documents/navneeta/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.0.1_d45ece25cf5908c63b712f787a1db5f577268a3b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/stellentsoft/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/stellentsoft/Documents/navneeta/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_3fbfcdca2cab429c8b0f37e19aed4212665c6a50.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/stellentsoft/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/Users/stellentsoft/Documents/navneeta/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_33b3c51750e813d3aae6892ffcbe2d4d9dc477af.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/stellentsoft/Documents/navneeta/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/11.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e72c498ef3e345135b6bfdf7fc83c6b905228ade">
+        <dex dex="/Users/stellentsoft/Documents/navneeta/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-11.0.0_012bb25e0589024593873f15e9d5b46393d78577.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/stellentsoft/Documents/navneeta/android/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="/Users/stellentsoft/Documents/navneeta/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.2.0_248acd6a9779ea516d45e328e3000fade1321cc4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/stellentsoft/Documents/navneeta/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/11.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="0e39662b49ef66950c0941aa5fd4c49346a7c341">
+        <dex dex="/Users/stellentsoft/Documents/navneeta/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-common-11.0.0_7e90da6e1ca8d27299a66fbe8dde819769dd514b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/stellentsoft/Documents/navneeta/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5a61f17cd72e20aa4323cbf5f909b7c609619275">
+        <dex dex="/Users/stellentsoft/Documents/navneeta/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.0.1_dfd784025d5164c235463b2f3c06f97877655676.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/stellentsoft/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/stellentsoft/Documents/navneeta/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_e9fa7cccca601d12cf26614f7c0da9a5d74490b7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/stellentsoft/Documents/navneeta/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/Users/stellentsoft/Documents/navneeta/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.2.0_46bc59ceeaade44b2f96f01a5499d75deba2bc53.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/stellentsoft/Documents/navneeta/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2668e49e4e31c7d451b76a36009b902bf44e0d70">
+        <dex dex="/Users/stellentsoft/Documents/navneeta/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.0.1_9c34845e8d637b40cca4e23f9fc5bfb761878dc8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/stellentsoft/Documents/navneeta/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/stellentsoft/Documents/navneeta/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_4e589a49bb65a0104f3bb04edf434663f1cc8948.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/stellentsoft/Documents/navneeta/android/app/build/intermediates/exploded-aar/Navaneeta/react-native-firebase/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d05dcbd72684d65511899561974cd5d3145789d0">
+        <dex dex="/Users/stellentsoft/Documents/navneeta/android/app/build/intermediates/pre-dexed/debug/Navaneeta-react-native-firebase-unspecified_4927993a5bc03ec78dce16f4e95e99d7eb55c51c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/stellentsoft/Documents/navneeta/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/11.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6dfa77c356a9a8c13ad61253ed95ed3a746527e6">
+        <dex dex="/Users/stellentsoft/Documents/navneeta/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-database-11.0.0_4d1b67c87fe1fd27edf4f8aeecf826a2df7a437b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/stellentsoft/Documents/navneeta/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.46.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c5526d30278eb171f4a1325bd6b927c9057c91f4">
+        <dex dex="/Users/stellentsoft/Documents/navneeta/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.46.4_a53b6b232a6abe049abe362dd45970ccc1d1d9a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/stellentsoft/Documents/navneeta/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="cf836a435a496eb22ff2aa69aa1e619462549f81">
+        <dex dex="/Users/stellentsoft/Documents/navneeta/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.0.1_e7f9c4b3e2477e1069a7488e5f2efdc835d228c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/stellentsoft/Documents/navneeta/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.46.4/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/stellentsoft/Documents/navneeta/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_8e4145d6407f64d872595294c37ed7f704ecd6dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/stellentsoft/Documents/navneeta/android/app/build/intermediates/exploded-aar/Navaneeta/react-native-vector-icons/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f2cf527de8d0bd35d72088fafea02395ba4a9eec">
+        <dex dex="/Users/stellentsoft/Documents/navneeta/android/app/build/intermediates/pre-dexed/debug/Navaneeta-react-native-vector-icons-unspecified_52456f6e49efc797a04beafef86c2a75a5e30bf8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/stellentsoft/Documents/navneeta/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/stellentsoft/Documents/navneeta/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_e351922a6870baaaa48c052e92e827a0367b920e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/stellentsoft/Documents/navneeta/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/11.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d410043f93e71bb0179ba86b85726dd080f14b79">
+        <dex dex="/Users/stellentsoft/Documents/navneeta/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-11.0.0_0ee13346fe43680bab4fd6a7b7cd512dabdef5a7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/stellentsoft/Documents/navneeta/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/11.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ef65e4780d67d06abddd6e2d15dd4e0519ad8d8a">
+        <dex dex="/Users/stellentsoft/Documents/navneeta/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-11.0.0_9734dc32908e29629c0a8eebe6385dc52205c605.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/stellentsoft/Documents/navneeta/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/stellentsoft/Documents/navneeta/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_e38a81e639d6e874e6aff0e97301237741ba17c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/stellentsoft/Documents/navneeta/android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="/Users/stellentsoft/Documents/navneeta/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.2.0_c90f19f1d8e5fdf966ede937b5e2c98a7248eb06.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/stellentsoft/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.2.0/support-annotations-25.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="/Users/stellentsoft/Documents/navneeta/android/app/build/intermediates/pre-dexed/debug/support-annotations-25.2.0_8466138c0f737534a2cbaad398742f5646ec5d61.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/stellentsoft/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/stellentsoft/Documents/navneeta/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_fc0bb9342c48e2db36b82b1fa7f10126e8715e61.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/stellentsoft/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/Users/stellentsoft/Documents/navneeta/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_0469816cb9b32434d26d058bd3f60424d7bd7866.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/stellentsoft/Documents/navneeta/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/11.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="af26875652e085cd14713ff655bc3aa07960d459">
+        <dex dex="/Users/stellentsoft/Documents/navneeta/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-database-connection-11.0.0_f555cdf577becbc9eb2e7b7b14b5941d7abee141.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/stellentsoft/Documents/navneeta/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/stellentsoft/Documents/navneeta/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.2.0_d59e0adbda58259612a68f31263bb410ec7ff357.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/stellentsoft/Documents/navneeta/android/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/Users/stellentsoft/Documents/navneeta/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.2.0_9eff971f2e2518fd030928f18fb5c1a854d64ce3.jar" />
+    </item>
+
+</items>

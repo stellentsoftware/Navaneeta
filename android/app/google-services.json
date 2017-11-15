@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1009768976898",
+    "firebase_url": "https://navneeta-ac60d.firebaseio.com",
+    "project_id": "navneeta-ac60d",
+    "storage_bucket": "navneeta-ac60d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1009768976898:android:1bd1b8d5c0ca3909",
+        "android_client_info": {
+          "package_name": "com.navaneeta.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1009768976898-k1can4ggbn8gfag4lvna98vp7r5270sd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQpOb2NIg5VFrA_LFdAzHXwv_PLTisYG4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
